@@ -1,0 +1,4 @@
+My AI is indicating a winner when testing two files against each other, in particular plawTwo-1
+and playTwo-2. Indicating that black has one. Then nothing happens until the program ends and it
+times out. This is strange because when I run other files and a winner is indicated, it exits and
+times out. Idk why it's not timing out when these files are run. Please help.
